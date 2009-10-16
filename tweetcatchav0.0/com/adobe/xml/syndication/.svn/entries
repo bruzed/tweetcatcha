@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   name="atom"
+   kind="dir"/>
+<entry
+   committed-rev="545"
+   name="Namespaces.as"
+   text-time="2006-07-03T21:44:25.705787Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="0667bde1131e146d7334cbb44103e8a5"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.333814Z"/>
+<entry
+   committed-rev="545"
+   name="ParsingTools.as"
+   text-time="2006-07-03T21:44:25.715801Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="0d236c7cf303aeeb4b637e89b1a81935"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.343828Z"/>
+<entry
+   name="rss"
+   kind="dir"/>
+<entry
+   committed-rev="545"
+   name="NewsParser.as"
+   text-time="2006-07-03T21:44:25.725816Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1865295e99767016adab7b341c5d63f3"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.114937Z"/>
+<entry
+   name="generic"
+   kind="dir"/>
+<entry
+   committed-rev="545"
+   name="NewsFeedElement.as"
+   text-time="2006-07-03T21:44:25.735830Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="cfc5cc5a5fb5f9f80c316ea65f1335b5"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.124952Z"/>
+</wc-entries>

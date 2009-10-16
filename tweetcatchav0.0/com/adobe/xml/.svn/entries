@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   name="syndication"
+   kind="dir"/>
+</wc-entries>

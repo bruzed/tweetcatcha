@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication/atom"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="545"
+   name="Category.as"
+   text-time="2006-07-03T21:44:24.163569Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="a399400247f5681edcab5f4ec5222861"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.762993Z"/>
+<entry
+   committed-rev="545"
+   name="TextTag.as"
+   text-time="2006-07-03T21:44:24.203627Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1cf8cdd8bc94db67b886e03c84d3b472"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.813065Z"/>
+<entry
+   committed-rev="545"
+   name="Title.as"
+   text-time="2006-07-03T21:44:24.253699Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="dd4a0f473865762c9ff53976dba2f0e3"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.103483Z"/>
+<entry
+   committed-rev="545"
+   name="Generator.as"
+   text-time="2006-07-03T21:44:24.263713Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="a7c8857281869153bd20197fc5533588"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.123512Z"/>
+<entry
+   committed-rev="545"
+   name="SubTitle.as"
+   text-time="2006-07-03T21:44:24.293756Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="99b7ec57bd9bbf0829ba95de1423e1a4"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.153555Z"/>
+<entry
+   committed-rev="545"
+   name="Link.as"
+   text-time="2006-07-03T21:44:24.193612Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="3349b925e90e35066720d686ab80ff53"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.793036Z"/>
+<entry
+   committed-rev="557"
+   name="FeedData.as"
+   text-time="2006-07-03T21:44:24.173584Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="68908c333fbd53affedd7f67374987c2"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.762993Z"/>
+<entry
+   committed-rev="545"
+   name="Rights.as"
+   text-time="2006-07-03T21:44:24.203627Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="7fbb5779075024d6124c5a38866e3f34"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.813065Z"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="603"
+   name="Entry.as"
+   text-time="2006-07-03T21:44:24.243684Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="6eefc6e0fc6c47c2146c7191eaba648c"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.093468Z"/>
+<entry
+   committed-rev="557"
+   name="Atom10.as"
+   text-time="2006-07-03T21:44:24.213641Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="6e2fc4774163b077a9ce263f02ef6e39"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.093468Z"/>
+<entry
+   committed-rev="545"
+   name="PersonTag.as"
+   text-time="2006-07-03T21:44:24.263713Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="d72cb1799aca867001532af2b94e5fb2"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.113497Z"/>
+<entry
+   committed-rev="545"
+   name="Author.as"
+   text-time="2006-07-03T21:44:24.253699Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="cdc6bd117397692878ede19583bcd025"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.103483Z"/>
+<entry
+   committed-rev="545"
+   name="Contributor.as"
+   text-time="2006-07-03T21:44:24.283742Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="fac9686aba99cd2328530dafb970ae9e"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.143540Z"/>
+<entry
+   committed-rev="545"
+   name="Content.as"
+   text-time="2006-07-03T21:44:24.283742Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="7e229f33cfe7d50f715dd746ba1481aa"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.133526Z"/>
+</wc-entries>
