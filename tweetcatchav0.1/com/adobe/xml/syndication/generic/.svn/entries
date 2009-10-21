@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication/generic"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="545"
+   name="Media.as"
+   text-time="2006-07-03T21:44:25.435398Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="218025dac3ca961b02284add95cb07ee"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.144980Z"/>
+<entry
+   committed-rev="545"
+   name="Atom10Item.as"
+   text-time="2006-07-03T21:44:25.495484Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="09f72d20fdb4d1025506b83e6d43042a"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.154995Z"/>
+<entry
+   committed-rev="545"
+   name="Image.as"
+   text-time="2006-07-03T21:44:25.515513Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="eafa7f29b64ccf0ee8842e70ce11df68"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.165009Z"/>
+<entry
+   committed-rev="545"
+   name="Atom10Feed.as"
+   text-time="2006-07-03T21:44:25.565585Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="9a486bc2d857ea73ac8431278e71aecd"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.165009Z"/>
+<entry
+   committed-rev="545"
+   name="RSS10Item.as"
+   text-time="2006-07-03T21:44:25.565585Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="8e940c45fa33072d56a2b94b08c5df4e"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.185038Z"/>
+<entry
+   committed-rev="545"
+   name="RSS20Item.as"
+   text-time="2006-07-03T21:44:25.575600Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="f3c420d986767982dc6214e82d279652"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.195052Z"/>
+<entry
+   committed-rev="545"
+   name="IMetadata.as"
+   text-time="2006-07-03T21:44:25.575600Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="b6c260bc5ef314e41e12f04d13796562"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.205067Z"/>
+<entry
+   committed-rev="545"
+   name="FeedFactory.as"
+   text-time="2006-07-03T21:44:25.575600Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="981de80bf7da2ada53d23d078157a2be"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.215081Z"/>
+<entry
+   committed-rev="545"
+   name="RSS10Feed.as"
+   text-time="2006-07-03T21:44:25.595628Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="7fe18d62782dbf28e70895e2d8f44e1b"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.225096Z"/>
+<entry
+   committed-rev="545"
+   name="UnknownFeedError.as"
+   text-time="2006-07-03T21:44:25.605643Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="169d1022a9da152ecfed473d435f253b"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.245124Z"/>
+<entry
+   committed-rev="545"
+   name="RSS20Feed.as"
+   text-time="2006-07-03T21:44:25.595628Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="64115eb62773883401f94318cd83618e"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.235110Z"/>
+<entry
+   committed-rev="545"
+   name="Atom10Metadata.as"
+   text-time="2006-07-03T21:44:25.615657Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="ab6eefe8249baba626a9e5f864b0277c"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.255139Z"/>
+<entry
+   committed-rev="545"
+   name="Author.as"
+   text-time="2006-07-03T21:44:25.605643Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="65f82446b17930556993b5b7737c6ed1"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.255139Z"/>
+<entry
+   committed-rev="545"
+   name="IItem.as"
+   text-time="2006-07-03T21:44:25.635686Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="0859a64d6d556209201bcd86e70b1481"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.265153Z"/>
+<entry
+   committed-rev="545"
+   name="RSS10Metadata.as"
+   text-time="2006-07-03T21:44:25.645700Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="025c488517ca53d5c7643995bcfd69ae"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.275168Z"/>
+<entry
+   committed-rev="545"
+   name="Excerpt.as"
+   text-time="2006-07-03T21:44:25.655715Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="98be4ccdb66d3741c147b8da0d64a9b9"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.295196Z"/>
+<entry
+   committed-rev="603"
+   name="RSS20Metadata.as"
+   text-time="2006-07-03T21:44:25.665729Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="9000067c4cadeadcd34a04f5abe4b1bb"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.365297Z"/>
+<entry
+   committed-rev="545"
+   name="IFeed.as"
+   text-time="2006-07-03T21:44:25.675744Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="fec0bdae598080fab7fb5537d0884ec9"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:25.425384Z"/>
+</wc-entries>

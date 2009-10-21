@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication/rss"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="545"
+   name="Category.as"
+   text-time="2006-07-03T21:44:24.934678Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="d6e4717ad7535207438f5d126407b693"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.554131Z"/>
+<entry
+   committed-rev="545"
+   name="IRSS.as"
+   text-time="2006-07-03T21:44:24.954707Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="b54c425b3e1e6bd9b31d722cd48009a1"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.564145Z"/>
+<entry
+   committed-rev="545"
+   name="IChannel.as"
+   text-time="2006-07-03T21:44:24.984750Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="20b49c83af9f5f9ac1e8b21feac9f1ee"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.574160Z"/>
+<entry
+   committed-rev="603"
+   name="Image10.as"
+   text-time="2006-07-03T21:44:24.984750Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="90a53938dec112dbf80d626a910646b9"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.584174Z"/>
+<entry
+   committed-rev="545"
+   name="Image20.as"
+   text-time="2006-07-03T21:44:24.994764Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="86fab386cfb2256ed7d9db3353f87210"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.594188Z"/>
+<entry
+   committed-rev="545"
+   name="Guid.as"
+   text-time="2006-07-03T21:44:25.004779Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="6b60fccdeeb9c79869e55634ac95fdd2"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.604203Z"/>
+<entry
+   committed-rev="545"
+   name="IImage.as"
+   text-time="2006-07-03T21:44:25.014793Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="2b23e665c20ced32d0a153e6db3d880a"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.614217Z"/>
+<entry
+   committed-rev="545"
+   name="Enclosure.as"
+   text-time="2006-07-03T21:44:25.024808Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="081e2fc5e7e4ab93b9f271a7d0541647"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.634246Z"/>
+<entry
+   committed-rev="557"
+   name="Item10.as"
+   text-time="2006-07-03T21:44:25.014793Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="730c001509d2bd06c582c3654e82b30f"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.624232Z"/>
+<entry
+   committed-rev="545"
+   name="Source.as"
+   text-time="2006-07-03T21:44:25.034822Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="70dc06ba33ce9df4fcbcc3043ee1111a"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.664289Z"/>
+<entry
+   committed-rev="557"
+   name="Item20.as"
+   text-time="2006-07-03T21:44:25.024808Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="0d2c04e83e3bab967a94f8248027dde6"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.644260Z"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   committed-rev="545"
+   name="Cloud.as"
+   text-time="2006-07-03T21:44:25.044836Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1eba65fdd1540e1cf934329b2bf132dd"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.884606Z"/>
+<entry
+   committed-rev="545"
+   name="IItem.as"
+   text-time="2006-07-03T21:44:25.044836Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="338f4e879b86ccd4bc32e208e4bc8355"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.884606Z"/>
+<entry
+   committed-rev="545"
+   name="RSS10.as"
+   text-time="2006-07-03T21:44:25.054851Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1a5645f9e01015aec637fb96a4679c95"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.894620Z"/>
+<entry
+   committed-rev="545"
+   name="RSS20.as"
+   text-time="2006-07-03T21:44:25.054851Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="2019beafe2cdb881ca729da5dc0b8062"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.894620Z"/>
+<entry
+   committed-rev="603"
+   name="Channel10.as"
+   text-time="2006-07-03T21:44:25.064865Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="5f4731fd487363e51b178b38183eb36c"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.904635Z"/>
+<entry
+   committed-rev="557"
+   name="Channel20.as"
+   text-time="2006-07-03T21:44:25.074880Z"
+   committed-date="2006-04-14T16:54:47.047680Z"
+   checksum="be51c7bae732226ae1229d06bf98c061"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.914649Z"/>
+</wc-entries>
