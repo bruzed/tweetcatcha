@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication/rss/tests"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="545"
+   name="CategoryTest.as"
+   text-time="2006-07-03T21:44:24.784462Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="8ccce395f6b32b58215aef8ad969bb51"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.704347Z"/>
+<entry
+   committed-rev="545"
+   name="EnclosureTest.as"
+   text-time="2006-07-03T21:44:24.794476Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="84f83fd2cd5d869570f377797dd6d1da"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.714361Z"/>
+<entry
+   committed-rev="545"
+   name="SourceTest.as"
+   text-time="2006-07-03T21:44:24.824520Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="05751e12d752de5dae5b6b95ee19c701"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.734390Z"/>
+<entry
+   committed-rev="545"
+   name="CloudTest.as"
+   text-time="2006-07-03T21:44:24.844548Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="56815a3f97f686be28522fee10357013"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.744404Z"/>
+<entry
+   committed-rev="545"
+   name="GuidTest.as"
+   text-time="2006-07-03T21:44:24.854563Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1ec9f6e386b1d3482f2bf570deb481c0"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.754419Z"/>
+<entry
+   committed-rev="545"
+   name="RSS10Test.as"
+   text-time="2006-07-03T21:44:24.864577Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="c7f5f429c2d199db3b5a44a93dfbae41"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.764433Z"/>
+<entry
+   committed-rev="603"
+   name="RSS20Test.as"
+   text-time="2006-07-03T21:44:24.864577Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="3d850e1a6c0d77cbb28d29fa98b6fb43"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:24.774448Z"/>
+</wc-entries>

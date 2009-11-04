@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="603"
+   name=""
+   committed-date="2006-06-20T20:43:50.528158Z"
+   url="http://labs.adobe.com/subversion/flashplatform/projects/xmlsyndication/trunk/src/actionscript3/com/adobe/xml/syndication/atom/tests"
+   last-author="mchamber@macromedia.com"
+   kind="dir"
+   uuid="8fb42b5b-8f02-0410-9cc2-833e89911dc6"
+   repos="http://labs.adobe.com/subversion/flashplatform"
+   revision="603"/>
+<entry
+   committed-rev="545"
+   name="CategoryTest.as"
+   text-time="2006-07-03T21:44:23.963281Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="c1080719d27f5f612f62b1f5d71c7b7e"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.853123Z"/>
+<entry
+   committed-rev="545"
+   name="LinkTest.as"
+   text-time="2006-07-03T21:44:23.973296Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="35ee8f3347a81f882b825afc4fc16fcb"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.863137Z"/>
+<entry
+   committed-rev="545"
+   name="RightsTest.as"
+   text-time="2006-07-03T21:44:23.983310Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="2521779a3249798bf384bcb675a1527d"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.883166Z"/>
+<entry
+   committed-rev="545"
+   name="TextTagTest.as"
+   text-time="2006-07-03T21:44:23.993324Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="062e1c0aff75d9f2b7f99203a6617ae7"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.893180Z"/>
+<entry
+   committed-rev="603"
+   name="Atom10Test.as"
+   text-time="2006-07-03T21:44:24.003339Z"
+   committed-date="2006-06-20T20:43:50.528158Z"
+   checksum="438441a51bd5c72a4049f86bf16eb72a"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.903195Z"/>
+<entry
+   committed-rev="545"
+   name="TitleTest.as"
+   text-time="2006-07-03T21:44:24.023368Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="1c67074eb06f8604e1bcadf66aa6abe5"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.913209Z"/>
+<entry
+   committed-rev="545"
+   name="AuthorTest.as"
+   text-time="2006-07-03T21:44:24.033382Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="f3ccbda2d06df16370063abbdbe3e9d7"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.923224Z"/>
+<entry
+   committed-rev="545"
+   name="PersonTagTest.as"
+   text-time="2006-07-03T21:44:24.043396Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="f32fe5616ce423494ebff50bbc821a2c"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.923224Z"/>
+<entry
+   committed-rev="545"
+   name="GeneratorTest.as"
+   text-time="2006-07-03T21:44:24.043396Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="351a6bc4a85cc9a26b6c8e12e7b9fe55"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.933238Z"/>
+<entry
+   committed-rev="545"
+   name="ContentTest.as"
+   text-time="2006-07-03T21:44:24.053411Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="a033464ad5bed40e4aeff59f20c85c80"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.943252Z"/>
+<entry
+   committed-rev="545"
+   name="ContributorTest.as"
+   text-time="2006-07-03T21:44:24.063425Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="47a8538f3b4ea3691103e56c1f6143f9"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.953267Z"/>
+<entry
+   committed-rev="545"
+   name="SubTitleTest.as"
+   text-time="2006-07-03T21:44:24.073440Z"
+   committed-date="2006-04-13T17:38:51.024204Z"
+   checksum="00dad136c561f821dabdcfcb664ae151"
+   last-author="mchamber@macromedia.com"
+   kind="file"
+   prop-time="2006-07-03T21:44:23.963281Z"/>
+</wc-entries>

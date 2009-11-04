@@ -1,0 +1,1 @@
+﻿package com.nickhardeman.twitter.events {	import flash.events.Event;			public class SuperTweetSearchEvent extends Event {				public static const TWEETS_LOADED	:String = "tweetsLoaded";		public static const COMPLETE		:String = "searchComplete";							}		}
