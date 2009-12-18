@@ -1,6 +1,6 @@
 <?php
 
-if (!$link = mysql_connect('localhost', 'root', 'admin8or')) {
+if (!$link = mysql_connect('localhost', 'root', 'root')) {
     	echo 'Could not connect to mysql';
     	exit;
 }

@@ -49,12 +49,18 @@ function checkTweets( $newsitem ) {
 	//}
 	
 	//mysql_query( "UPDATE newswire_tb SET indexable=".$indexable.", indexed=indexed+1 WHERE id=".$newsitem["id"] );
-		
+	$addedTweets = 0;
+	
 	for ($i = 0; $i < count( $tweetsObj->tweets ); $i++) {
 	//	echo $tweetsObj->tweets[$i]->tweet_from_user ."<br>";
 		echo "<br>Tweet: since id : ".$sinceString."<br>";
-		insertTweet( $tweetsObj->tweets[$i], $newsitem["id"] );
+		if (insertTweet( $tweetsObj->tweets[$i], $newsitem["id"] )) {
+			$addedTweets += 1;
+		}
 		echo "<br><br>";
+	}
+	if ($addedTweets > 0) {
+		updateTweetTotal($newsitem, $addedTweets);
 	}
 	
 }
@@ -73,7 +79,15 @@ function insertTweet($tweet, $newswire_id) {
 	//$result = mysql_query( "INSERT INTO backtweets_db (tweet_id) VALUES ('$tweet_id')" );
 	
 	echo "result: ".$result." id: ".$tweet_id." user_id: ".$tweet_from_user_id." user: ".$tweet_from_user." profile image: ".$tweet_profile_image_url." created: ".$tweet_created_at."\n".$tweet_text;
+	if ($result) return true;
 	
+	return false;
+	
+}
+
+function updateTweetTotal($newsitem, $addedTweets) {
+	//$result = mysql_query( "SELECT * FROM newswire_tb WHERE id=".$newsitem['id']);
+	$result = mysql_query("UPDATE newswire_tb SET totalTweets=totalTweets+".$addedTweets." WHERE id=".$newsitem["id"] );
 }
 
 //cURLs a URL and returns it
